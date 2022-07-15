@@ -10,17 +10,17 @@
 
 <div class="z-10">
     <h1 class="text-6xl font-bold uppercase text-white">
-        Lara<span class="text-black">Vel</span>
+        Rota<span class="text-black">Ges</span>
     </h1>
     <p class="text-2xl text-gray-200 font-bold my-4">
-        Laravel App
+        Sign up to post your latest work
     </p>
     <div>
         <a
-            href="register.html"
+            href="/register"
             class="inline-block border-2 border-white text-white py-2 px-4
             rounded-xl uppercase mt-2 hover:text-black hover:border-black"
-            >Sign Up to List
+            >Sign Up
         </a>
     </div>
 </div>

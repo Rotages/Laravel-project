@@ -19,7 +19,7 @@
             </div>
             <div class="border border-gray-200 w-full mb-6"></div>
             <div>
-                <h3 class="text-3xl font-bold mb-4">Job description</h3>
+                <h3 class="text-3xl font-bold mb-4">Description of your work</h3>
                 <div class="text-lg space-y-6">
                     <p class="font-bold bg-gray-50 border border-gray-200 rounded p-6">
                     {{$listing->description}}
